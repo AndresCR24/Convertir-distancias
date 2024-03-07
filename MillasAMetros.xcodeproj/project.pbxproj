@@ -16,6 +16,7 @@
 		22638E7E2B992E7C00DD1B58 /* MillasAMetrosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22638E7D2B992E7C00DD1B58 /* MillasAMetrosTests.swift */; };
 		22638E882B992E7C00DD1B58 /* MillasAMetrosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22638E872B992E7C00DD1B58 /* MillasAMetrosUITests.swift */; };
 		22638E8A2B992E7C00DD1B58 /* MillasAMetrosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22638E892B992E7C00DD1B58 /* MillasAMetrosUITestsLaunchTests.swift */; };
+		22638E972B99455900DD1B58 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 22638E962B99455900DD1B58 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		22638E832B992E7C00DD1B58 /* MillasAMetrosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MillasAMetrosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22638E872B992E7C00DD1B58 /* MillasAMetrosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillasAMetrosUITests.swift; sourceTree = "<group>"; };
 		22638E892B992E7C00DD1B58 /* MillasAMetrosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MillasAMetrosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		22638E962B99455900DD1B58 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		22638E5A2B992E7900DD1B58 = {
 			isa = PBXGroup;
 			children = (
+				22638E962B99455900DD1B58 /* .gitignore */,
 				22638E652B992E7900DD1B58 /* MillasAMetros */,
 				22638E7C2B992E7C00DD1B58 /* MillasAMetrosTests */,
 				22638E862B992E7C00DD1B58 /* MillasAMetrosUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22638E972B99455900DD1B58 /* .gitignore in Resources */,
 				22638E732B992E7C00DD1B58 /* LaunchScreen.storyboard in Resources */,
 				22638E702B992E7C00DD1B58 /* Assets.xcassets in Resources */,
 				22638E6E2B992E7900DD1B58 /* Main.storyboard in Resources */,
